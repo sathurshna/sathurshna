@@ -14,9 +14,10 @@ You can click the Preview link to take a look at your changes.
 - 🔭 Currently exploring **AI/ML projects** and **competitive programming**
 - 🌱 Learning **advanced algorithms** & **ML model optimization**
 - 🎯 2024 Goals: Contribute to open-source AI projects
-- ⚡ Fun fact: I solve coding problems for breakfast!
+- ⚡ Fun fact: I solve coding problem !
 
 #🛠️ Tech Stack
+
      Languages : [ Python, Java, C++],
      
      Tools     : [ Jupyter, VS Code],
@@ -25,9 +26,7 @@ You can click the Preview link to take a look at your changes.
 
   🌐 Connect With Me
 
-LinkedIn 
-Twitter
-Instagram
+LinkedIn Twitter  Instagram
 
 
 
