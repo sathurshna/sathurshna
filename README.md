@@ -10,6 +10,8 @@ You can click the Preview link to take a look at your changes.
 # 💫 Hello, I'm Sathurshna! 
     [Machine Learning Enthusiast | Problem Solver | AI Explorer]
 
+-----------------------------------------------------------------------------------
+
 #👩‍💻 About Me
 - 🔭 Currently exploring **AI/ML projects** and **competitive programming**
 - 🌱 Learning **advanced algorithms** & **ML model optimization**
