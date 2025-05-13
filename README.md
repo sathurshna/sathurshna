@@ -20,9 +20,10 @@ You can click the Preview link to take a look at your changes.
 -----------------------------------------------------------------------------------
 
 #🛠️ Tech Stack
- Languages : [ Python, Java, C++]
- Tools     : [ Jupyter, VS Code]
- Concepts  : [ Data Structures, OOP ]
+- Languages : [ Python, Java, C++]
+- Tools     : [ Jupyter, VS Code]
+- Concepts  : [ Data Structures, OOP ]
+
 ------------------------------------------------------------------------------------
 ![top-langs-3](https://github.com/user-attachments/assets/e3c8518d-1ede-44c0-8ba8-5dd2d2e3a64a)
 -----------------------------------------------------------------------------------
