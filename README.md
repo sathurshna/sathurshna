@@ -18,7 +18,9 @@ You can click the Preview link to take a look at your changes.
 
 ### 🛠️ Tech Stack
  "Languages": ["Python", "Java", "C++"],
+ 
   "Tools": [ "Jupyter", "VS Code",],
+  
   "Concepts": ["Data Structures", "OOP"]
 
   🌐 Connect With Me
@@ -26,6 +28,7 @@ You can click the Preview link to take a look at your changes.
 LinkedIn 
 Twitter
 Instagram
+
 
 
 ![Uploading top-langs-2.svg…]()
