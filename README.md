@@ -39,5 +39,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-pink?style=for-the-badge&logo=instagram)]([YOUR_INSTAGRAM_URL](https://www.instagram.com/usthz7/))
 
 ---
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sathurshna&layout=compact&theme=react)
+---
 
 ⭐ Always learning. Always building. Always improving.
