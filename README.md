@@ -1,13 +1,7 @@
-<!--
-sathurshna/sathurshna is a ✨ special ✨ repository because its README.md appears on your GitHub profile.
--->
-![Tech Banner][(https://readme-typing-svg.herokuapp.com/?color=1F3C88&size=25&center=true&vCenter=true&width=600&lines=Machine+Learning+Enthusiast;AI+Explorer;Problem+Solver;Always+Learning)]
+![Typing SVG](https://readme-typing-svg.herokuapp.com?color=1F3C88&size=25&center=true&vCenter=true&width=600&lines=Machine+Learning+Enthusiast;AI+Explorer;Problem+Solver;Always+Learning)
 
-
-# 💫 Hello, I'm Sathurshna
-
-
-### 🤖 Machine Learning Enthusiast | 💡 Problem Solver | 🚀 AI Explorer
+# 💫 Hello, I'm Sathurshna  
+### 🤖 Machine Learning Enthusiast | 💡 Problem Solver | 🚀 AI Explorer  
 
 ---
 
@@ -16,7 +10,7 @@ sathurshna/sathurshna is a ✨ special ✨ repository because its README.md appe
 - 🔭 Currently exploring **AI/ML projects** and **competitive programming**
 - 🌱 Learning **advanced algorithms** and **ML model optimization**
 - 🎯 Goal: Contribute to impactful open-source AI projects
-- ⚡ Fun fact: I enjoy solving coding challenges and improving daily
+- ⚡ I enjoy solving coding challenges and improving daily
 
 ---
 
