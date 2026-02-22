@@ -28,6 +28,13 @@ You can click the Preview link to take a look at your changes.
 ## 📊 Most Used Languages
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sathurshna&layout=compact)
+
+## 💻 Languages I Use
+
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
+![HTML](https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=html5)
+![CSS](https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3)
+![Python](https://img.shields.io/badge/Python-green?style=for-the-badge&logo=python)
 -----------------------------------------------------------------------------------
 
   🌐 Connect With Me
