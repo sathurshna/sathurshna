@@ -25,7 +25,9 @@ You can click the Preview link to take a look at your changes.
 - Concepts  : [ Data Structures, OOP ]
 
 ------------------------------------------------------------------------------------
-![top-langs-3](https://github.com/user-attachments/assets/e3c8518d-1ede-44c0-8ba8-5dd2d2e3a64a)
+## 📊 Most Used Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sathurshna&layout=compact)
 -----------------------------------------------------------------------------------
 
   🌐 Connect With Me
