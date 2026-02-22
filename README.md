@@ -1,7 +1,10 @@
 <!--
 sathurshna/sathurshna is a ✨ special ✨ repository because its README.md appears on your GitHub profile.
 -->
+![Tech Banner][(https://capsule-render.vercel.app/api?type=waving&color=1F3C88:1F3C88,100:00C2FF&height=250&section=header&text=Sathurshna&fontSize=45&fontColor=ffffff)]
 
+
+# 💫 Hello, I'm Sathurshna
 # 💫 Hello, I'm Sathurshna
 
 ### 🤖 Machine Learning Enthusiast | 💡 Problem Solver | 🚀 AI Explorer
