@@ -1,7 +1,8 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com?color=1F3C88&size=25&center=true&vCenter=true&width=600&lines=Machine+Learning+Enthusiast;AI+Explorer;Problem+Solver;Always+Learning)
 
 # 💫 Hello, I'm Sathurshna  
 ### 🤖 Machine Learning Enthusiast | 💡 Problem Solver | 🚀 AI Explorer  
+---
+![Typing SVG](https://readme-typing-svg.herokuapp.com?color=1F3C88&size=25&center=true&vCenter=true&width=600&lines=Machine+Learning+Enthusiast;AI+Explorer;Problem+Solver;Always+Learning)
 
 ---
 
