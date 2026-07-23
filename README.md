@@ -2,7 +2,7 @@
 # 💫 Hello, I'm Sathurshna  
 ### 🤖 Machine Learning Enthusiast | 💡 Problem Solver | 🚀 AI Explorer  
 ---
-![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FF8C00&size=25&center=true&vCenter=true&width=600&lines=Computer+Science+ and + Enginner; AI+Explorer;Problem+Solver;Always+Learning)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FF8C00&size=25&center=true&vCenter=true&width=600&lines=Computer+Science+and+Engineer; AI+Explorer;Problem+Solver;Always+Learning)
 
 ---
 
