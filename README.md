@@ -1,6 +1,9 @@
 # Hi, I'm Sathurshna 👋
 
 ### Software Engineering Student | Full-Stack Developer | AI/ML Enthusiast
+---
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=FF8C00&center=true&vCenter=true&width=700&lines=Computer+Science+%26+Engineering+Student;Full+Stack+Developer;AI+%26+;React+Native+Developer;Always+Learning+New+Things)](https://git.io/typing-svg)
+---
 
 I'm a Computer Science & Engineering student passionate about **software development, artificial intelligence, and problem solving**. I enjoy building practical applications, learning new technologies, and continuously improving my development skills.
 
