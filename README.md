@@ -61,7 +61,7 @@ I'm a Computer Science & Engineering student passionate about **software develop
 ---
 ## 📈 Contribution Streak
 <div align="center">
-<img src="https://streak-stats.demolab.com?user=Sathurshna&hide_border=true&background=00000000&ring=ff8c00&fire=ff8c00&currStreakLabel=ff8c00&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=ffffff" />
+<img src="https://streak-stats.demolab.com?user=Sathurshna&theme=transparent&hide_border=true" />
 </div>
 
 ---
