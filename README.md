@@ -57,35 +57,6 @@ I'm a Computer Science & Engineering student passionate about **software develop
 <img src="https://streak-stats.demolab.com?user=Sathurshna&theme=transparent&hide_border=true" />
 </div>
 
----
-
-## 🎯 Current Focus
-
-```text
-Software Engineering
-        │
-        ├── Full-Stack Development
-        │     ├── React
-        │     ├── React Native
-        │     ├── Node.js
-        │     └── FastAPI
-        │
-        ├── Artificial Intelligence
-        │     ├── Machine Learning
-        │     ├── Computer Vision
-        │     └── Model Optimization
-        │
-        ├── Computer Science
-        │     ├── Data Structures
-        │     ├── Algorithms
-        │     └── System Design
-        │
-        └── Software Engineering
-              ├── Git & GitHub
-              ├── REST APIs
-              ├── Database Design
-              └── Software Architecture
-```
 
 ---
 
