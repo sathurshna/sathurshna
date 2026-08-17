@@ -51,13 +51,6 @@ I'm a Computer Science & Engineering student passionate about **software develop
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,linux" />
 </p>
-
----
-## 📊 GitHub Statistics
----
-![](https://github-readme-stats-fast.vercel.app/api?username=sathurshna&hide_border=false&include_all_commits=true&title_color=ff8c00&icon_color=ff8c00&text_color=ffffff&bg_color=0d1117)
-![](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=sathurshna&hide_border=false&include_all_commits=true&title_color=ff8c00&icon_color=ff8c00&text_color=ffffff&bg_color=0d1117)
----
 ---
 ## 📈 Contribution Streak
 <div align="center">
