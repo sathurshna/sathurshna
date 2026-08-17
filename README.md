@@ -58,13 +58,11 @@ I'm a Computer Science & Engineering student passionate about **software develop
 ## 📌 Featured Projects
 
 ### 🌱 FreshLens — AI-Powered Freshness Monitoring
-
 An AI-powered inventory and freshness monitoring system designed for small-scale retailers.
 
 **Tech:** React Native · Expo · TypeScript · FastAPI · PostgreSQL · Supabase · Redis · Celery · Cloudflare R2
 
 **Key Features**
-
 * 📷 Produce image capture and analysis
 * 🤖 AI-based produce identification and freshness classification
 * 📦 Inventory monitoring
@@ -74,21 +72,19 @@ An AI-powered inventory and freshness monitoring system designed for small-scale
 
 ---
 
-###🩸 Smart Blood Donation Coordination System
-
+### 🩸 Smart Blood Donation Coordination System
 A mobile and web-based platform designed to improve blood donation coordination by connecting donors, recipients, and healthcare organizations through a centralized system.
 
-**Tech:**React Native · Node.js · Express.js · REST API · MySQL
+**Tech:** React Native · Node.js · Express.js · REST API · MySQL
 
 **Key Features**
-
-*🩸 Blood donation request management
-*🔎 Donor and blood-group matching
-*📍 Location-based donor discovery
-*🔔 Real-time donation request notifications
-*👤 Donor and recipient management
-*🔐 Secure authentication and authorization
-*📊 Centralized management and coordination
+* 🩸 Blood donation request management
+* 🔎 Donor and blood-group matching
+* 📍 Location-based donor discovery
+* 🔔 Real-time donation request notifications
+* 👤 Donor and recipient management
+* 🔐 Secure authentication and authorization
+* 📊 Centralized management and coordination
 ---
 
 ### ✅ To-Do Application
