@@ -74,20 +74,21 @@ An AI-powered inventory and freshness monitoring system designed for small-scale
 
 ---
 
-### 💰 Expense Tracker
+###🩸 Smart Blood Donation Coordination System
 
-A full-stack expense management application for tracking personal expenses and financial activity.
+A mobile and web-based platform designed to improve blood donation coordination by connecting donors, recipients, and healthcare organizations through a centralized system.
 
-**Tech:** Node.js · Express.js · MySQL · JavaScript
+**Tech:**React Native · Node.js · Express.js · REST API · MySQL
 
-**Features**
+**Key Features**
 
-* Expense management
-* REST API integration
-* MySQL database
-* CRUD operations
-* Backend API development
-
+*🩸 Blood donation request management
+*🔎 Donor and blood-group matching
+*📍 Location-based donor discovery
+*🔔 Real-time donation request notifications
+*👤 Donor and recipient management
+*🔐 Secure authentication and authorization
+*📊 Centralized management and coordination
 ---
 
 ### ✅ To-Do Application
