@@ -53,21 +53,15 @@ I'm a Computer Science & Engineering student passionate about **software develop
 </p>
 
 ---
-
 ## 📊 GitHub Statistics
 ---
-![](https://github-readme-stats-fast.vercel.app/api?username=sathurshna&theme=tokyonight&hide_border=false&include_all_commits=true)
-![](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=sathurshna&theme=tokyonight&hide_border=false&include_all_commits=true)
+![](https://github-readme-stats-fast.vercel.app/api?username=sathurshna&hide_border=false&include_all_commits=true&title_color=ff8c00&icon_color=ff8c00&text_color=ffffff&bg_color=0d1117)
+![](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=sathurshna&hide_border=false&include_all_commits=true&title_color=ff8c00&icon_color=ff8c00&text_color=ffffff&bg_color=0d1117)
 ---
-
 ---
-
 ## 📈 Contribution Streak
-
 <div align="center">
-
-<img src="https://streak-stats.demolab.com?user=Sathurshna&theme=transparent&hide_border=true" />
-
+<img src="https://streak-stats.demolab.com?user=Sathurshna&hide_border=true&background=00000000&ring=ff8c00&fire=ff8c00&currStreakLabel=ff8c00&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=ffffff" />
 </div>
 
 ---
