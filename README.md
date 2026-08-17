@@ -99,11 +99,12 @@ A simple task management application built to practice frontend development and 
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Sathurshna&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Sathurshna&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=86400" width="48%" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sathurshna&layout=compact&theme=transparent&hide_border=true" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sathurshna&layout=compact&hide_border=true&langs_count=8&cache_seconds=86400" width="48%" />
 
 </div>
+
 
 ---
 
