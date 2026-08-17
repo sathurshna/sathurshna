@@ -1,6 +1,5 @@
 # Hi, I'm Sathurshna 👋
 
-### Software Engineering Student | Full-Stack Developer | AI/ML Enthusiast
 ---
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=FF8C00&center=true&vCenter=true&width=700&lines=Computer+Science+%26+Engineering+Student;Full+Stack+Developer;AI+%26+;React+Native+Developer;Always+Learning+New+Things)](https://git.io/typing-svg)
 ---
@@ -52,46 +51,6 @@ I'm a Computer Science & Engineering student passionate about **software develop
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,linux" />
 </p>
-
----
-
-## 📌 Featured Projects
-
-### 🌱 FreshLens — AI-Powered Freshness Monitoring
-An AI-powered inventory and freshness monitoring system designed for small-scale retailers.
-
-**Tech:** React Native · Expo · TypeScript · FastAPI · PostgreSQL · Supabase · Redis · Celery · Cloudflare R2
-
-**Key Features**
-* 📷 Produce image capture and analysis
-* 🤖 AI-based produce identification and freshness classification
-* 📦 Inventory monitoring
-* 🔔 Low-stock, aging and spoilage alerts
-* 👨‍💼 Web-based administration platform
-* ⚡ Asynchronous ML processing using Celery
-
----
-
-### 🩸 Smart Blood Donation Coordination System
-A mobile and web-based platform designed to improve blood donation coordination by connecting donors, recipients, and healthcare organizations through a centralized system.
-
-**Tech:** React Native · Node.js · Express.js · REST API · MySQL
-
-**Key Features**
-* 🩸 Blood donation request management
-* 🔎 Donor and blood-group matching
-* 📍 Location-based donor discovery
-* 🔔 Real-time donation request notifications
-* 👤 Donor and recipient management
-* 🔐 Secure authentication and authorization
-* 📊 Centralized management and coordination
----
-
-### ✅ To-Do Application
-
-A simple task management application built to practice frontend development and application state management.
-
-**Tech:** React · JavaScript · HTML · CSS
 
 ---
 
