@@ -97,8 +97,8 @@ A simple task management application built to practice frontend development and 
 
 ## 📊 GitHub Statistics
 ---
-![](https://github-readme-stats.vercel.app/api?username=sathurshna&theme=tokyonight&hide_border=false&include_all_commits=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sathurshna&theme=tokyonight&hide_border=false&include_all_commits=true)
+![](https://github-readme-stats-fast.vercel.app/api?username=sathurshna&theme=tokyonight&hide_border=false&include_all_commits=true)
+![](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=sathurshna&theme=tokyonight&hide_border=false&include_all_commits=true)
 ---
 
 ---
